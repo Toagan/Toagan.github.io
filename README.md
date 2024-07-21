@@ -27,12 +27,13 @@ I value good world-models and the ambition to have a positive impact on the worl
             <p>For now check my side-projects here: https://github.com/Toagan</p>
         </section>
 
-        <section id="about">
+        <section id="Main Resources">
             <h2>About</h2>
-            <p>This is the about section where you can learn more about me.</p>
+            <p>Podcast: https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b & https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183
+            Health: https://protocol.bryanjohnson.com/Home</p>
         </section>
 
-        <section id="contact">
+        <section id="More">
             <h2>Contact</h2>
             <p>This is the contact section where you can get in touch with me.</p>
         </section>
