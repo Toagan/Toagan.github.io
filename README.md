@@ -10,13 +10,7 @@ Passionate about tech - Sales/Marketing/Product
 <body>
     <header>
         <h1>Tilman Schepke</h1>
-        <nav>
-            <ul>
-                <li><a href="#Side-Projects">Side-Projects</a></li>
-                <li><a href="#Main resources that have provided value to me">Main Resources</a></li>
-                <li><a href="#More">More</a></li>
-            </ul>
-        </nav>
+      
     </header>
     
     <main>
