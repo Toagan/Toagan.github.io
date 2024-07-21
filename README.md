@@ -22,17 +22,18 @@ Passionate about tech - Sales/Marketing/Product
             <h2>Main Resources</h2>
             <p>I have always been curious about the main information and motivation driving factors of people so I decided to share mine here:<p>
             
-            <p>Podcast:<p>
+            <p><strong>Podcast:</strong<>/<p>
             <p> <a href="https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b">My First Million</a> <p>
             <p> <a href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC</a> <p>
             <p> <a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How to get Rich by Naval Ravikant</a> <p> 
             
-            <p>Health: 
+            <p><strong>Health:</strong></p>
             <p> <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a> <p>
 
         <section id="More">
             <h2>More</h2>
-            <p>Essays: 
+            
+            <p><strong>Essays:</strong></p>
             <p> <a href="https://www.paulgraham.com/articles.html">Paul Graham's Blog</a> <p> 
             <p> <a href="https://blog.samaltman.com/"> Sam Altman's Blog</a> <p> 
         
