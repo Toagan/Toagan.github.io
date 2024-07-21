@@ -35,7 +35,7 @@ I value good world-models and the ambition to have a positive impact on the worl
 
         <section id="More">
             <h2>Contact</h2>
-            <p>This is the contact section where you can get in touch with me.</p>
+            <p>Essays: https://blog.samaltman.com/ & https://www.paulgraham.com/articles.html</p>
         </section>
     </main>
 
