@@ -14,9 +14,9 @@ I value good world-models and the ambition to have a positive impact on the worl
         <h1>Tilman Schepke</h1>
         <nav>
             <ul>
-                <li><a href="#Side-Projects">Home</a></li>
-                <li><a href="#Main resources that have provided value to me">About</a></li>
-                <li><a href="#More">Contact</a></li>
+                <li><a href="#Side-Projects">Side-Projects</a></li>
+                <li><a href="#Main resources that have provided value to me">Main Resources</a></li>
+                <li><a href="#More">More</a></li>
             </ul>
         </nav>
     </header>
