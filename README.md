@@ -11,7 +11,7 @@ I value good world-models and the ambition to have a positive impact on the worl
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Tilman Schepke</h1>
         <nav>
             <ul>
                 <li><a href="#home">Home</a></li>
