@@ -1,4 +1,7 @@
-<!DOCTYPE html>
+I am interested in Entrepreneurship, Tech., and Data Analytics. 
+
+I value good world-models and the ambition to have a positive impact on the world.
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
