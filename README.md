@@ -23,8 +23,8 @@ Passionate about tech - Sales/Marketing/Product
             <p>I have always been curious about the main information and motivation driving factors of people so I decided to share mine here:<p>
             
             <p>Podcast:<p>
-            <p> href="https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b">My First Million <p>
-            <p> href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC <p>
+            <p> <a href="https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b">My First Million</a> <p>
+            <p> <a href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC</a> <p>
             
             <p>Health: 
             <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a>
