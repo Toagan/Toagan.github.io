@@ -28,13 +28,13 @@ I value good world-models and the ambition to have a positive impact on the worl
         </section>
 
         <section id="Main Resources">
-            <h2>About</h2>
+            <h2>Main Resources</h2>
             <p>Podcast: https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b & https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183
-            Health: https://protocol.bryanjohnson.com/Home</p>
+            <p>Health: https://protocol.bryanjohnson.com/Home</p>
         </section>
 
         <section id="More">
-            <h2>Contact</h2>
+            <h2>More</h2>
             <p>Essays: https://blog.samaltman.com/ & https://www.paulgraham.com/articles.html</p>
         </section>
     </main>
