@@ -31,7 +31,6 @@ I value good world-models and the ambition to have a positive impact on the worl
             <h2>Main Resources</h2>
             <p>Podcast: https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b & https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183
             <p>Health: https://protocol.bryanjohnson.com/Home</p>
-        </section>
 
         <section id="More">
             <h2>More</h2>
@@ -44,5 +43,3 @@ I value good world-models and the ambition to have a positive impact on the worl
     </footer>
 
     <script src="scripts.js"></script>
-</body>
-</html>
