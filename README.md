@@ -21,17 +21,17 @@
     <main>
         <section id="home">
             <h2>Home</h2>
-            <p>This is the home section of the website.</p>
+            <p>This is the home section of my personal website.</p>
         </section>
 
         <section id="about">
             <h2>About</h2>
-            <p>This is the about section where you can learn more about us.</p>
+            <p>This is the about section where you can learn more about me.</p>
         </section>
 
         <section id="contact">
             <h2>Contact</h2>
-            <p>This is the contact section where you can get in touch with us.</p>
+            <p>This is the contact section where you can get in touch with me.</p>
         </section>
     </main>
 
