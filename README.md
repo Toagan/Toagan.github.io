@@ -20,7 +20,9 @@ Passionate about tech - Sales/Marketing/Product
 
         <section id="Main Resources">
             <h2>Main Resources</h2>
-            <p>Podcast: 
+            <p>I have always been curious about the main information and motivation driving factors of people so I decided to share mine here:<p>
+            
+            <p>Podcast:<p>
             <a href="https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b">My First Million</a>
             <a href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC</a>
             
