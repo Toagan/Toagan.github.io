@@ -1,6 +1,4 @@
-I am interested in Entrepreneurship, Tech., and Data Analytics. 
-
-I value good world-models and the ambition to have a positive impact on the world.
+Passionate about tech - Sales/Marketing/Product 
 
 <html lang="en">
 <head>
