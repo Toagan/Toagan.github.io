@@ -20,14 +20,14 @@ Passionate about tech - Sales/Marketing/Product
 
         <section id="Main Resources">
             <h2>Main Resources</h2>
-            <p>I have always been curious about the main information and motivation driving factors of people so I decided to share mine here:<p>
+            <p>I have always been curious about the key information and motivational factors that drive people, so I decided to share mine here:<p>
             
-            <p><strong>Podcast:</strong<>/<p>
+            <p><strong>Podcast:</strong></<p>
             <p> <a href="https://open.spotify.com/show/3mliji9352UAk3XnWElnDV?si=c358329b68a84b6b">My First Million</a> <p>
             <p> <a href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC</a> <p>
             <p> <a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How to get Rich by Naval Ravikant</a> <p> 
             
-            <p><strong>Health:</strong<>/<p>
+            <p><strong>Health:</strong></<p>
             <p> <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a> <p>
 
         <section id="More">
