@@ -16,8 +16,7 @@ Passionate about tech - Sales/Marketing/Product
     <main>
         <section id="Side-Projects">
             <h2>Side-Projects</h2>
-            <p>For now check my side-projects here: <a href="https://www.example.com">GitHub>Toagan</a>
-        </section>
+            <p>For now check my side-projects here: <a href="https://github.com/Toagan">GitHub/Toagan</a>
 
         <section id="Main Resources">
             <h2>Main Resources</h2>
