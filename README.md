@@ -27,7 +27,7 @@ Passionate about tech - Sales/Marketing/Product
             <p> <a href="https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183">20VC</a> <p>
             
             <p>Health: 
-            <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a>
+            <p> <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a> <p>
 
         <section id="More">
             <h2>More</h2>
