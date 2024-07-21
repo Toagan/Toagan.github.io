@@ -22,9 +22,9 @@ I value good world-models and the ambition to have a positive impact on the worl
     </header>
     
     <main>
-        <section id="home">
-            <h2>Home</h2>
-            <p>This is the home section of my personal website.</p>
+        <section id="Side-Projects">
+            <h2>Side-Projects</h2>
+            <p>For now check my side-projects here: https://github.com/Toagan</p>
         </section>
 
         <section id="about">
