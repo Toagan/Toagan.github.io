@@ -32,7 +32,7 @@ My goal is to become better.
             <p> <a href="https://open.spotify.com/episode/1DW2fkyEkgZaEP40Mj6H9m">How to get Rich by Naval Ravikant</a> <p> 
             
             <p><strong>Health:</strong></p>
-            <p> <a href="[https://open.spotify.com/show/3j2KMcZTtgTNBKwtZBMHvl?si=83b05ed017d44183](https://protocol.bryanjohnson.com/Home)">Bryan Johnson's Blog</a> <p>
+            <p> <a href="https://protocol.bryanjohnson.com/">Bryan Johnson's Blog</a> <p>
 
         <section id="More">
             <h2>More</h2>
