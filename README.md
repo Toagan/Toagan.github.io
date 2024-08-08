@@ -1,7 +1,6 @@
-In sales, marketing, or product, passion transforms everything. Sales becomes about deeply understanding the customer’s problem and offering the ideal solution. Marketing shifts to evangelizing a future yet to exist, making technology’s potential tangible and exciting. Building a product is like sculpting—you refine it to reveal its true form. Passion lets you see not just what it is, but what it could be, where market needs and tech possibilities meet.
-The best in tech are driven by the possibilities it creates and the lives it improves. 
+"The future is not something that happens to us, it's something we create." - Peter Thiel
 
-This is the passion I’ve found in myself.
+I’ve found my personal fit in tech through three key roles: sales, marketing, and product management. In sales, I've closed over $120k. In marketing, I drove $7k in revenue from my own e-commerce store. And in product, I built something that resonated with 1,300 users.
 
 <html lang="en">
 <head>
