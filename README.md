@@ -1,12 +1,7 @@
-There’s a peculiar alchemy that happens when you mix passion with deep understanding. It’s the difference between someone who works in tech and someone who lives it. If you're passionate about tech, it’s not just a job—it’s your lens on the world. It’s the code running in the background of your thoughts, the OS for your ideas.
+In sales, marketing, or product, passion transforms everything. Sales becomes about deeply understanding the customer’s problem and offering the ideal solution. Marketing shifts to evangelizing a future yet to exist, making technology’s potential tangible and exciting. Building a product is like sculpting—you refine it to reveal its true form. Passion lets you see not just what it is, but what it could be, where market needs and tech possibilities meet.
+The best in tech are driven by the possibilities it creates and the lives it improves. 
 
-When you bring that kind of passion into sales, marketing, or product, the result is fundamentally different. Most people see sales as convincing someone to buy something. But if you understand tech deeply, sales becomes about understanding the customer’s problem better than they do, and showing them the tool that will solve it.
-
-Marketing follows the same principle. At its core, marketing is about connecting people with what they need, even if they don’t know it yet. If you’re passionate about tech, you’re not just selling a product—you’re evangelizing a future that doesn’t exist yet. You’re translating the abstract potential of technology into something tangible, something people can see, touch, and get excited about.
-
-And then there’s product. Building a product in tech is like sculpting in clay. You start with something rough, and as you refine it, you discover its true form. If you’re passionate about tech, you can see the product not just as it is, but as it could be. You understand the market, but you also understand what’s possible technically, and the magic happens where those two meet.
-
-The secret ingredient across all these domains—sales, marketing, product—is a kind of deep empathy for both the technology and the user. The best people in tech aren’t just passionate about the technology; they’re passionate about the possibilities it creates, the problems it solves, and the lives it improves. When you have that kind of passion, you’re not just a cog in the machine; you’re part of the force that drives it forward. I have discovered this passion for myself. 
+This is the passion I’ve found in myself.
 
 <html lang="en">
 <head>
