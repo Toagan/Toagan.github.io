@@ -1,6 +1,8 @@
 "The future is not something that happens to us, it's something we create." - Peter Thiel
 
-I’ve found my personal fit in tech through three key roles: sales, marketing, and product management. In sales, I've closed over $120k. In marketing, I drove $7k in revenue from my own e-commerce store. And in product, I built something that resonated with 1,300 users.
+I’ve found my personal fit in tech through three key roles: sales, marketing, and product management. In sales, I've closed over $120k. In marketing, I drove $7k in revenue from my own e-commerce store. And in product, I built something that resonated with 1,300 users. 
+
+My goal is to become better.
 
 <html lang="en">
 <head>
